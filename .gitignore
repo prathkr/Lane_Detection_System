@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights
+models/
+*.pth
+*.pt
+
+# Compiled binaries
+*.dll
+*.pyd
+*.so
+*.dylib
+
+# Python cache
+__pycache__/
+
+# Datasets (optional)
+data/
+dataset/
